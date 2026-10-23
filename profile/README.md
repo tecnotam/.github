@@ -10,7 +10,7 @@
 
 A **tecnotam** fabrica, refabrica e recondiciona embalagens industriais (como tambores, bombonas e IBCs) para indústrias dos setores químico, petroquímico e alimentício. Ela resolve o problema do descarte e do alto custo de insumos por meio da economia circular e da logística reversa, garantindo o manejo sustentável e a destinação correta de recipientes.
 
-Este espaço reúne os projetos, scripts e ferramentas que construímos para [automatizar processos internos / entregar soluções aos clientes / manter nossa infraestrutura].
+Este espaço reúne os projetos, scripts e ferramentas que construímos para automatizar processos internos / entregar soluções aos clientes / manter nossa infraestrutura.
 
 ## No que trabalhamos
 
@@ -42,7 +42,7 @@ Todo repositório deve ter um `README.md` com: o que é, como instalar/usar e qu
 
 - **Nunca** versione senhas, tokens, chaves de API ou arquivos `.env`
 - Use sempre autenticação em dois fatores (2FA)
-- Encontrou algo suspeito ou uma falha? Fale com [nome/equipe responsável] pelo e-mail **[seguranca@seudominio.com.br]**
+- Encontrou algo suspeito ou uma falha? Fale com a equipe de TI pelo e-mail **ti@tecnotam.com.br**
 
 ## Contato
 
