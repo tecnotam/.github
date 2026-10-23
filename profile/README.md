@@ -1,5 +1,3 @@
-# .github
-
 <h1 align="center">Tecnotam</h1>
 
 <p align="center">
